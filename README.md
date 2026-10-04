@@ -1,4 +1,4 @@
-### <div align="center">Not Engneer Life No Life (: <br> Let's Try !! <br> by _wararabesashimi_</div>  
+### <div align="center">Not Engineer Life No Life (: <br> Let's Try !! <br> by _wararabesashimi_</div>  
   
 
 <div align="center">💻 バックエンドを中心に勉強中 💻</div>  
